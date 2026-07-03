@@ -14,7 +14,7 @@
 
 ## About
 
-Three years in. Right now, I'm the only engineer on [OwnStory](https://ownstory.com) — a live product that turns photos, videos, and voice notes into a private story page people unlock with one QR scan, for gifts, weddings, memorials, birthdays. Real users, real traffic, no app required. I report straight to the founder, no BA or PM layer between an idea and shipped code. I took it off a legacy MySQL system onto a modern Postgres stack while it kept running, and I lean on AI-native workflows to cover ground that would normally take a small team.
+Three years in. Right now, I'm the only engineer on [OwnStory](https://ownstory.com) — a live product that turns photos, videos, and voice notes into a private story page people unlock with one QR scan, for gifts, weddings, memorials, birthdays. Real users, real traffic, no app required. I report straight to the founder, no BA or PM layer between an idea and shipped code. I lean on AI-native workflows to cover ground that would normally take a small team.
 
 Before that, I led a five-engineer team rebuilding an insurance platform's policy, finance, and claims systems from scratch — turning what the business side actually needed into a system with 30+ controllers, 40+ models, and 50+ endpoints, not just writing code to a spec someone else finished. So I've run both ends of it: sole engineer with no safety net, and the person other engineers were relying on.
 
